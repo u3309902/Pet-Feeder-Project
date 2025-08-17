@@ -1,0 +1,15 @@
+START
+Read current time from Clock
+If current time is equal to feed time then
+    Read bowl weight from Bowl Weight Sensor
+    If bowl is empty then
+        Read food level from Food Level Sensor
+        If food level is empty then
+            Send alert "Food not available"
+        else
+            dispense food
+        endif
+    else
+        send alert "Bowl still full – pet may not have eaten"
+    endif
+end
