@@ -1,1 +1,12 @@
+“Reflect on ethics and limitations Use Copilot to explore the ethical implications of using AI in automated pet care…”
 
+Copilot highlighted key issues like responsibility and animal welfare. Who is responsible for making sure the pet eats? 
+These insights influenced my final solution by encouraging me think about potential systems in place to make sure the animal is not neglected. 
+Some solutions may be to include manual overrides, alert logging, and better malfunctioning detection.
+I originally had a system that checked if the pet had eaten at the next food time but leaving an animal without food violates animal welfare.
+
+“Explore real-world implementation: Use Copilot to discuss how your system could be built using actual hardware (e.g., Arduino, Raspberry Pi).”
+
+Copilot provided a comparison between Arduino and Raspberry Pi setups, listing components, pros and cons, and how each system would operate. 
+As I do not have a great understanding of these tools I cannot reflect on this Ai suggestion completely.
+This prompt highlights that I may not understand the topic and relying on Ai to inform me of the subject is not reliable.
