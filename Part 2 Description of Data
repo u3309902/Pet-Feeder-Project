@@ -2,6 +2,7 @@
 |--------|-------------------|---------------|--------------------------------------------------|--------------------|
 | Input  | Clock             | Continuous    | Tracks current time continuously                 | 00:00              |
 | Input  | Feed Time Schedule| Discrete      | Pre-set times for dispensing food                | 08:00, 18:00       |
+| Input  | Bowl WeightSensor | Discrete      | Detects if food is in the bowl                   | Full, low, Empty   |
 | Input  | Food Level Sensor | Discrete      | Detects if food is available in the container    | Full, Low, Empty   |
 | Output | Servo Motor       | Discrete      | Rotates to dispense food                         | Rotate 90°         |
 | Output | Alert System      | Discrete      | Sends notification if issue occurs               | Food not eaten     |
