@@ -1,0 +1,19 @@
+Test and Refine Sloution:
+Does Pet eat and is it as expected?
+- dispenser is set to dispense food at 8am and 6pm
+- if pet does not eat it will send an alert to staff at the next meal time
+- if pet does eat at expected time then the food will dispense at the next set feeding time
+- if dispenser is out of food staff will be alerted and the pet will be feed
+Logic and potential improvements: this system is logical, however, it is unknown if staff want to be alerted sooner if the feed is not eaten.
+At the moment it alerts staff at the next feeding time which can be over 12hrs. However, it may take the pet the 12hrs to eat the food so
+alerting the staff premuraturely is a risk factor if we bring the check bowl wait to far forward. 
+
+Food bin is empty
+- food bin sensor will detect if there is enough food available and staff will be alereted if not
+Logic and potential improvements: this system is logical and can may be improved by alerting staff if food bin is low instead of empty to avoid
+the potential of running out of food. this again is staff preference. if the food bin is too small then staff spend to much time filling 
+bins and this negates the advantage of being an automated system
+
+Comparing output with expectations
+The outputs meet expectations. If the assumpstions stated in the first part are held, then each pet will be individually feed at set times
+and staff will be alerted if the pet doesn't eat or if the food is empty. This system is now automated and reduces the work for the staff.
