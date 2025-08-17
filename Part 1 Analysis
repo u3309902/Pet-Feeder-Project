@@ -1,3 +1,3 @@
 The puprose of this project is to provide the animal shelter with a low cost, automatic food dispenser to feed pets at schedule times and alert staff when they are not eating.
-It is assumed that the dispenser feeds one pet at a time with one type of pet food, feeding times are set, and staff are available to respond to alerts. 
-Inputs and Outputs include a Clock, Feeding Schedule, Food Level Sensor, Weight Sensor, Servo Motor activation, and Alert Notification.
+It is assumed that the dispenser has limited storage, limited memory and processing power, feeds one pet at a time with one type of pet food, feeding times are set, and staff are available to respond to alerts. 
+Inputs and Outputs include a Clock, Feeding Schedule, Food Level Sensor, Servo Motor activation to dispense the food, and Alert Notification to notify staff if the pet is not eating.
