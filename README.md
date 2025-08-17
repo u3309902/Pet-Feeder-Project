@@ -3,8 +3,16 @@
 An automated pet feeder system that dispenses food based on scheduled feed times, checks if pet has eaten, and monitors food levels.
 
 ## Table of Contents
-
-
+    Part 1: Analysis
+        Overview of the problem, Goals and constraints, Initial assumptions, Block Diagram
+    Part 2: Description of Data
+    Part 3: Flowchart
+        Logical flow of the automated feeding process
+    Part 4: Word Coding
+    Part 5: Test and Refine the Solution
+        Test scenarios, Expected vs. actual outputs, Suggested improvements and refinements
+    Reflection
+        AI reflection
 ## Features
 - Scheduled feeding at 8 AM and 6 PM
 - Bowl weight sensor to detect uneaten food
